@@ -1,0 +1,11 @@
+qtd_amostras=1024
+taxa_amostragem=48000
+delta=0,35
+fftWindow=Triangle
+tipo_filtro=SemFiltro
+faixa_frequencia=1800-4200
+quantidade_filterbank=13
+frequencia_max_mel=22050
+melFilterBankType=AlternativeMelFilterBank
+mfccMetric=median
+ciclo=10
